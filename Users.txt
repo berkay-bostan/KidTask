@@ -1,0 +1,3 @@
+sena,123,Child
+berkay,123,Parent
+bavenoglu,123,Teacher
